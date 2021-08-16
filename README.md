@@ -1,5 +1,2 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ForestSeo&count_private=true&show_icons=true">
-</a>
-<br>
-<h5>My favorite language is Python.</h5>
+* I'm a japanese junior high school student.
+* My favorite language is Python.
