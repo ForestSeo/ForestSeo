@@ -1,2 +1,5 @@
-* I'm a japanese junior high school student.
-* My favorite language is Python.
+* 日本人です
+* Pythonを主に使っていてDjangoやPygameなどが使えます
+* HTML, CSS, JavaScriptもできます
+teratailは[こちら](https://teratail.com/users/ForestSeo)
+Qiitaは[こちら]https://qiita.com/ForestSeo
