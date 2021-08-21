@@ -14,4 +14,4 @@
 <a href="https://ja.stackoverflow.com/users/47787/forestseo">
 	<img src="https://github.com/ForestSeo/ForestSeo/blob/image/stackoverflow.jpg" width="24%" alt="stackoverflow" title="サンプル">
 </a>
-上の画像をクリックすると、サイトの自分のページに飛べます。
+<p>上の画像をクリックすると、サイトの自分のページに飛べます。</p>
