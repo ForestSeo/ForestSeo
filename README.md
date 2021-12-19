@@ -1,3 +1,4 @@
+<p>基本情報・応用情報持ってます。</p>
 <a href="https://teratail.com/users/ForestSeo">
 	<img src="https://github.com/ForestSeo/ForestSeo/blob/image/teratail.jpg" width="18%" alt="teratail" title="teratail">
 </a>
