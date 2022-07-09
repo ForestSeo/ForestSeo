@@ -1,6 +1,4 @@
 主にPythonを扱っていて、Djangoは結構得意です。
-アイコンはアーニャ
-
 
 [Zenn](https://zenn.dev/as)
 [Qiita](https://qiita.com/ForestSeo)
