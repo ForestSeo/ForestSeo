@@ -1,4 +1,4 @@
-<a href="https://twitter.com/intent/follow?screen_name=ForestSeo">Follow @ForestSeo</a>
+<a href="https://twitter.com/intent/follow?screen_name=_ForestSeo_">Follow @ForestSeo</a>
 [Zenn](https://zenn.dev/as)
 [Qiita](https://qiita.com/ForestSeo)
 [teratail](https://teratail.com/users/ForestSeo)
