@@ -1,4 +1,4 @@
-<a href="https://twitter.com/intent/follow?screen_name=_ForestSeo_">Follow @_ForestSeo_</a>
+<a href="https://twitter.com/intent/follow?screen_name=_ForestSeo_">Follow twitter</a>
 <br>
 [Zenn](https://zenn.dev/as)
 [Qiita](https://qiita.com/ForestSeo)
