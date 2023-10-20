@@ -1,4 +1,4 @@
-<a href="https://twitter.com/intent/follow?screen_name=_ForestSeo_">X@_ForestSeo_</a>
+<a href="https://twitter.com/intent/follow?screen_name=_ForestSeo_">X@\_ForestSeo\_</a>
 <hr style="height:3rem"></div>
 <p>他のソーシャルサイト等のリンク</p>
 
