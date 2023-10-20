@@ -1,4 +1,4 @@
-<a href="https://twitter.com/intent/follow?screen_name=_ForestSeo_">Follow twitter here.</a>
+<a href="https://twitter.com/intent/follow?screen_name=_ForestSeo_">X@_ForestSeo_</a>
 <hr style="height:3rem"></div>
 <p>And other social sites below.</p>
 
@@ -7,3 +7,4 @@
 [teratail](https://teratail.com/users/ForestSeo)
 [stackoverflow](https://ja.stackoverflow.com/users/47787/forestseo)
 [AtCoder](https://atcoder.jp/users/ForestSeo19)
+[OMC](https://onlinemathcontest.com/users/ForestSeo)
