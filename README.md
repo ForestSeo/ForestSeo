@@ -10,3 +10,4 @@
 [OMC](https://onlinemathcontest.com/users/ForestSeo)
 [GeoGuessr](https://www.geoguessr.com/user/630367c36d76295bbf807087)
 [note](https://note.com/oaa)
+<a href="http://example.com" target="_blank">test</a>
