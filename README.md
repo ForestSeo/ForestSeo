@@ -1,1 +1,1 @@
-<a href="https://twitter.com/intent/follow?screen_name=_ForestSeo_">twitter(X)@\_ForestSeo\_</a>
+<a href="https://twitter.com/intent/follow?screen_name=_ForestSeo_">twitter@\_ForestSeo\_</a>
