@@ -1,1 +1,1 @@
-<p>X: <a href="https://twitter.com/intent/follow?screen_name=echinochloa_uni">@echinochloa_uni</a></p>
+<p>X: <a href="https://x.com/echinochloa_uni">@echinochloa_uni</a></p>
